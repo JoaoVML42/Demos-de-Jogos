@@ -13,6 +13,13 @@ Aqui estão demos de jogos que eu desenvolvi com base em um curso da Udemy.
 3. Parâmetro de Crescimento.
    _ Seria _muito_ conveniente da minha parte disponibilizar apenas os meus códigos mais eficientes, otimizados, úteis e robustos, certo? Mas quero e faço questão de deixar minha trajetória aqui, como um lembrete de que vim de algum lugar e cada vez mais fiz coisas maiores e melhores. Se hoje estes códigos parecem bobos e rústicos, algum dia eles foram _impressionantes_ em comparação ao que o João do passado era capaz de programar. ***SEMPRE EM FRENTE!***
 
-##AS DEMOS
+
+## AS DEMOS
+
+### (Para Linux)
 Aqui está o executável do meu _segundo jogo_, é um curtíssimo "TopDown" de aventura: [Executável RPG](Cavaleirinho); Basta baixar e jogar! Eu sei que não fiz o melhor dos trabalhos, mas pelo amor, se sua máquina não rodar isso, troque imediatamente por um computador feito depois dos anos 80...
 O código fonte, caso fique curioso, está na pasta "01TopDownFinalGame" presente neste repositório.
+
+### (Para Windows)
+---OPS! TRABALHO EM PROGRESSO;
+
